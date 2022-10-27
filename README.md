@@ -6,7 +6,7 @@
 
 -📚: At the moment, I'm studying Computer Science at UCS
 
--💻: I know C language, and a little bit of Js, Java and PL/SQL, and I'm learning how to program in Python
+-💻: C, Java and PL/SQL. Little bit of JS and Python
 
 -Thanks for visting.
 -Enjoy it!! o/
