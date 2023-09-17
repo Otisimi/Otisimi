@@ -6,7 +6,7 @@
 
 -📚: At the moment, I'm studying Computer Science at UCS
 
--💻: C, Java and PL/SQL. Little bit of JS and Python
+-💻: Java and PL/SQL. Little bit of JS, Python and React
 
 -Thanks for visting.
 -Enjoy it!! o/
