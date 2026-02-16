@@ -1,6 +1,7 @@
 ### You might be asking yourself
 
-<p style="font-size: 2rem; font-weight: bold">DO I KNOW YOU??</p>
+<div>
+<h1>DO I KNOW YOU??</h1>
 
 ### Well I
 
@@ -23,3 +24,4 @@
 <h1>Otávio Vailatti Simionato</h1>
 
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGxycWticnd2NmxhaHAwdnJybHQzcG5sd3NybGd0cmZkeHJmMzN2eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QrG1eKAEnGAhO/giphy.gif" width="250" height="250"/>
+</div>
