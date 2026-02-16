@@ -1,20 +1,25 @@
-### Hi there 👋
+### You might be asking yourself
 
-## I'm Otávio Simionato
+#DO I KNOW YOU??
 
-![hippo](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDMwcmVtZ2M4aXZ1Y3NmdDdydWhwbGM3OGNhdnAxMDN6eWZwZWd1YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JQ1vqzwfAEr3W/giphy.gif)
+### Well I
 
-:brazil: Guy from Brazil
+:brazil: am a guy from Brazil
 
-🎓 Graduated in Computer Science at UCS - 2025
+🎓 graduated in Computer Science at UCS - 2025
 
-👨‍💻 Working at NL Informatica/RS - Brazil
+👨‍💻 am working at NL Informatica/RS - Brazil
 
-💻 Java and Oracle/SQL. Little bit of JS and React
+💻 code in Java and Oracle/SQL. Little bit of JS and React
 
-🤓 Learning HTML and CSS
+🤓 am learning HTML and CSS
 
-📈 Looking to improve ALWAYS!!
+📈 am ALWAYS looking to improve!!
 
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDMwcmVtZ2M4aXZ1Y3NmdDdydWhwbGM3OGNhdnAxMDN6eWZwZWd1YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JQ1vqzwfAEr3W/giphy.gif" width="250" height="250"/>
 
-![hippo](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGxycWticnd2NmxhaHAwdnJybHQzcG5sd3NybGd0cmZkeHJmMzN2eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QrG1eKAEnGAhO/giphy.gif)
+##I am
+
+# Otávio Vailatti Simionato
+
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGxycWticnd2NmxhaHAwdnJybHQzcG5sd3NybGd0cmZkeHJmMzN2eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QrG1eKAEnGAhO/giphy.gif" width="250" height="250"/>
