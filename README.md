@@ -2,7 +2,7 @@
 
 ## I'm Otávio Simionato
 
-&#x1f1e7 Guy from Brazil
+:brazil: Guy from Brazil
 
 🎓 Graduated in Computer Science at UCS - 2025
 
