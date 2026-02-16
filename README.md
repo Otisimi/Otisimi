@@ -1,6 +1,6 @@
 ### You might be asking yourself
 
-<h1>DO I KNOW YOU??</h1>
+<p style="font-size: 2rem; font-weight: bold">DO I KNOW YOU??</p>
 
 ### Well I
 
