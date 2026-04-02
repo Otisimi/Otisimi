@@ -10,7 +10,7 @@ You might be asking yourself
 
 🎓 graduated in Computer Science at UCS - 2025
 
-💻 Know and have experienc with these technologies
+💻 Know and have experience with these technologies
 
 <img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/3d95352d-c41e-462f-a256-61feacfa647a" />
 <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/3d483caf-4fa0-4b5d-9ee0-4aeb988b24b0" />&nbsp;&nbsp;&nbsp;&nbsp;
