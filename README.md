@@ -8,6 +8,8 @@ You might be asking yourself
 
 🎓 graduated in Computer Science at UCS - 2025
 
+👨‍💻 am a software developer at NL Informatica - Brazil
+
 💻 Know and have experience with these technologies
 
 <table>
@@ -22,8 +24,6 @@ You might be asking yourself
     <td><img width="70" height="50" alt="oracle" src="https://github.com/user-attachments/assets/d5755cd0-e350-4a3e-a9c2-2dc1ab65db27" /></td>
   </tr>
 </table>
-
-👨‍💻 am working at NL Informatica/RS - Brazil
 
 📈 am ALWAYS looking to improve!!
 
