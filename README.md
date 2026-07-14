@@ -1,16 +1,10 @@
-You might be asking yourself
+# Hello, I'm Otávio
 
-**DO I KNOW YOU??**
+🎓 I graduated in Computer Science at UCS in 2025
 
-### Well I
+👨‍💻 I'm a software developer at NL Informatica - Brazil
 
-:brazil: am a guy from Brazil
-
-🎓 graduated in Computer Science at UCS - 2025
-
-👨‍💻 am a software developer at NL Informatica - Brazil
-
-💻 Know and have experience with these technologies
+💻 And I know and have experience with these technologies
 
 <table>
   <tr>
@@ -25,13 +19,7 @@ You might be asking yourself
   </tr>
 </table>
 
-📈 am ALWAYS looking to improve!!
+And least but most importantly
 
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDMwcmVtZ2M4aXZ1Y3NmdDdydWhwbGM3OGNhdnAxMDN6eWZwZWd1YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JQ1vqzwfAEr3W/giphy.gif" width="200" height="150"/>
-
-<p>I am...</p>
-
-### **Otávio Vailatti Simionato**
-
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGxycWticnd2NmxhaHAwdnJybHQzcG5sd3NybGd0cmZkeHJmMzN2eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QrG1eKAEnGAhO/giphy.gif" width="200" height="150"/>
+## I am ALWAYS looking to improve!! 📈📈
 
